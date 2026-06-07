@@ -1,0 +1,6 @@
+{
+  "name": "Crystal Optics",
+  "description": "Premium eyewear store featuring a modern product catalog, virtual try-on simulation, store details, eye test booking, and an admin management dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
