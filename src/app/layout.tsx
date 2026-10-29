@@ -33,6 +33,9 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: 'Opticals in Kannur | Crystal Optics, Talap',
+    verification: {
+    google: '6Uv04p8W3461XhZyIrG9X7FNoW6hYF9JMwi1WKnZjlQ',
+  },
   description:
     'Crystal Optics is a retail optical store in Talap, Kannur offering prescription eyeglasses, spectacle frames, lenses, sunglasses, and blue-light glasses.',
   keywords: [
